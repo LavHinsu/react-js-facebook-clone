@@ -18,4 +18,4 @@ Assumptions
 3. Used only Bootstrap and React components.
 
 # react-js-facebook-clone 
-~[Image ()]
+~[Demo](https://github.com/Lav-Hinsu/react-js-facebook-clone/blob/master/facebook-clone.jpg)
